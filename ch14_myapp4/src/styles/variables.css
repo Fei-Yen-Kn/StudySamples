@@ -1,0 +1,19 @@
+:root {  /* 색상 변수 */
+    --primary-color: #007bff;
+    --secondary-color: #6c757d;
+    --background-color: #f8f9fa;
+    --text-color: #333;
+    --error-color: #dc3545;
+    --success-color: #28a745;
+    --warning-color: #ffc107;
+    --border-color: #ddd;
+    --button-hover-color: #0056b3;
+}
+:root {  /* 마진과 패딩 */
+    --small-margin: 8px;
+    --medium-margin: 16px;
+    --large-margin: 32px;
+    --small-padding: 8px;
+    --medium-padding: 16px;
+    --large-padding: 32px;
+}  
